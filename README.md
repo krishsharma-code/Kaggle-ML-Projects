@@ -13,6 +13,10 @@ Welcome to my Machine Learning portfolio! I am an AI Tools engineering student a
 * Python
 * Jupyter Notebooks
 * Data Analysis & Predictive Modeling
-
+  
+### 2. Video Game Sales Analysis 🎮
+* **Goal:** To analyze the gaming market and identify the most popular genres using worldwide sales data.
+* **Tech Stack:** Python, Pandas, Matplotlib
+* **Key Insight:** Used automated file discovery to handle dynamic datasets and visualized top gaming trends.
 ---
 *Quietly working away and building the future with AI.*
