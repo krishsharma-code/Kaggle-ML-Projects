@@ -18,5 +18,12 @@ Welcome to my Machine Learning portfolio! I am an AI Tools engineering student a
 * **Goal:** To analyze the gaming market and identify the most popular genres using worldwide sales data.
 * **Tech Stack:** Python, Pandas, Matplotlib
 * **Key Insight:** Used automated file discovery to handle dynamic datasets and visualized top gaming trends.
+
+### 3. Spaceship Titanic - Cosmic Mystery 🚀
+
+* **Goal:** To predict which passengers were transported to an alternate dimension during the spaceship's collision with a spacetime anomaly.
+* **Tech Stack:** Python, Pandas, Data Preprocessing
+* **My Achievement:** (Day 2) Successfully performed advanced data cleaning, handled missing values (`NaN`) on live competition data, and generated a baseline prediction model achieving an initial score of **0.49310**. Setting the stage for Machine Learning deployment!
+
 ---
 *Quietly working away and building the future with AI.*
