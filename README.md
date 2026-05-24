@@ -25,5 +25,12 @@ Welcome to my Machine Learning portfolio! I am an AI Tools engineering student a
 * **Tech Stack:** Python, Pandas, Data Preprocessing
 * **My Achievement:** (Day 2) Successfully performed advanced data cleaning, handled missing values (`NaN`) on live competition data, and generated a baseline prediction model achieving an initial score of **0.49310**. Setting the stage for Machine Learning deployment!
 
+### 3. Spaceship Titanic - Cosmic Mystery 🚀
+
+* **Goal:** To predict which passengers were transported to an alternate dimension during the spaceship's collision with a spacetime anomaly.
+* **Tech Stack:** Python, Pandas, Scikit-Learn, Machine Learning (Random Forest Classifier)
+* **My Achievement:** - **Day 2:** Performed advanced data cleaning and handled missing values (`NaN`) on live competition data, establishing a baseline.
+* **Day 3:** Successfully trained, validated, and deployed a Random Forest Machine Learning model that crushed the baseline, achieving an impressive accuracy score of **0.79448 (79.4%)**!
+
 ---
 *Quietly working away and building the future with AI.*
