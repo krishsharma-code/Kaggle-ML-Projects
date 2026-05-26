@@ -32,5 +32,7 @@ Welcome to my Machine Learning portfolio! I am an AI Tools engineering student a
 * **My Achievement:** - **Day 2:** Performed advanced data cleaning and handled missing values (`NaN`) on live competition data, establishing a baseline.
 * **Day 3:** Successfully trained, validated, and deployed a Random Forest Machine Learning model that crushed the baseline, achieving an impressive accuracy score of **0.79448 (79.4%)**!
 
+*4   Credit Card Fraud Detection
+*Developed a Credit Card Fraud Detection model with 92% recall using balanced Logistic Regression
 ---
 *Quietly working away and building the future with AI.*
