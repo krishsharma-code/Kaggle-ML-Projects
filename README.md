@@ -34,5 +34,29 @@ Welcome to my Machine Learning portfolio! I am an AI Tools engineering student a
 
 *4   Credit Card Fraud Detection
 *Developed a Credit Card Fraud Detection model with 92% recall using balanced Logistic Regression
+
+# 👁️ Digit Recognizer - Computer Vision (Kaggle)
+
+## 🎯 Project Overview
+This project is a Computer Vision classification model built to correctly identify hand-written digits (0-9) from a dataset of tens of thousands of scanned images. Instead of using standard image files, the model processes 784 pixel values (28x28 images) per digit to recognize patterns.
+
+## 🏆 Model Performance
+* **Accuracy Score:** 96.57%
+* **Algorithm:** Random Forest Classifier (`n_estimators=100`)
+* **Platform:** Kaggle
+
+## 🛠️ Tech Stack & Tools
+* **Language:** Python
+* **Libraries:** Pandas, Scikit-Learn
+* **Environment:** Kaggle Notebooks / Jupyter
+
+## 🚀 Key Learnings
+* Handling large datasets and pixel-level data extraction.
+* Training an ensemble Machine Learning model (Random Forest) for image classification.
+* Linking Kaggle directly to GitHub for automated version control.
+
+---
+*Developed as part of my daily AI & Machine Learning practice.*
+
 ---
 *Quietly working away and building the future with AI.*
