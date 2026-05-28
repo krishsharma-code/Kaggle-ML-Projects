@@ -55,6 +55,8 @@ This project is a Computer Vision classification model built to correctly identi
 * Training an ensemble Machine Learning model (Random Forest) for image classification.
 * Linking Kaggle directly to GitHub for automated version control.
 
+*Docs: Added comprehensive NLP Kaggle Competition (Score: 0.796) 
+
 ---
 *Developed as part of my daily AI & Machine Learning practice.*
 
