@@ -57,6 +57,21 @@ This project is a Computer Vision classification model built to correctly identi
 
 *Docs: Added comprehensive NLP Kaggle Competition (Score: 0.796) 
 
+# 🎮 Video Game Sales & Market Analysis (VS Gaming Studio)
+
+## 🎯 Project Overview
+A comprehensive data analysis of global video game sales to uncover market trends, popular genres, and dominant publishers. This market research serves as a foundational study for upcoming game development projects at **VS Gaming Studio**, helping the team understand player demands.
+
+## 📊 Key Insights
+* **Top Genres:** Action and Sports games have historically seen the highest number of releases.
+* **Top Publishers:** Nintendo and Electronic Arts (EA) maintain a massive lead in global sales.
+* **Data Value:** Understanding platform adoption and genre popularity helps indie developers make data-driven decisions.
+
+## 🛠️ Tech Stack & Tools
+* **Language:** Python
+* **Libraries:** Pandas, Matplotlib, Seaborn
+* **Environment:** Kaggle Notebooks
+
 ---
 *Developed as part of my daily AI & Machine Learning practice.*
 
