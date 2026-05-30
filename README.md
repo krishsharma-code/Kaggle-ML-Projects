@@ -1,4 +1,4 @@
-# 🤖 Kaggle ML Projects & AI Models
+s# 🤖 Kaggle ML Projects & AI Models
 
 Welcome to my Machine Learning portfolio! I am an AI Tools engineering student and a Python developer. This repository contains my code, notebooks, and models from various Kaggle competitions and Data Science challenges.
 
@@ -71,6 +71,33 @@ A comprehensive data analysis of global video game sales to uncover market trend
 * **Language:** Python
 * **Libraries:** Pandas, Matplotlib, Seaborn
 * **Environment:** Kaggle Notebooks
+
+# 📊 Day 9: Python Data Analysis Basics & Visualization
+
+## 📝 Overview
+This repository/notebook contains my Day 9 progress of the '15 Days of Python Basics' learning track. Today, I shifted focus to **Data Science and Analytics** using Kaggle. The project demonstrates how to create, manipulate, and visualize datasets using Python's most powerful data libraries.
+
+As a practical example, I analyzed a custom player dataset for **VS Gaming Studio**, filtering pro players and visualizing their scores using a dark-themed cyberpunk bar chart.
+
+## 🛠️ Tech Stack Used
+* **Language:** Python 3
+* **Libraries:** Pandas (Data Manipulation), Matplotlib (Data Visualization)
+* **Environment:** Kaggle Notebooks
+
+## 🧠 Concepts Mastered Today
+1. **Dictionary to DataFrame Conversion:** Creating structured tabular data (`pd.DataFrame`).
+2. **Data Inspection:** Using `.head()` and `.describe()` to get a quick statistical summary of the data.
+3. **Data Filtering:** Extracting specific rows based on conditions (e.g., filtering players with a score > 1000).
+4. **Data Visualization:** Plotting customized bar charts using Matplotlib with custom themes (`dark_background`), labels, and titles.
+
+## 🚀 How to Run (Kaggle)
+1. Open [Kaggle](https://www.kaggle.com/).
+2. Create a New Notebook.
+3. Copy the code cells provided in this project.
+4. Hit `Shift + Enter` on each cell to see the data tables and graphs render in real-time.
+
+---
+*🔥 "Consistency is the ultimate hack." - Keeping the daily learning streak alive!*
 
 ---
 *Developed as part of my daily AI & Machine Learning practice.*
