@@ -96,6 +96,8 @@ As a practical example, I analyzed a custom player dataset for **VS Gaming Studi
 3. Copy the code cells provided in this project.
 4. Hit `Shift + Enter` on each cell to see the data tables and graphs render in real-time.
 
+## Created an Object-Oriented ML Pipeline for Spaceship Titanic
+
 ---
 *🔥 "Consistency is the ultimate hack." - Keeping the daily learning streak alive!*
 
